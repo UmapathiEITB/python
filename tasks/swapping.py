@@ -9,4 +9,3 @@ a = a - b
 
 print("a :", a)
 print("b :", b)
-
